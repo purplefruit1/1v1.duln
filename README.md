@@ -20,3 +20,8 @@ Must be level 30+ on the pass, but do not reach level 40. Level 39 is as far as 
 4. Claim battlepass rewards 31-39 (or whatever your max 30+ tier is)
 5. Quit 1v1.lol
 6. Repeat, the tiers should become unclaimed upon re-reaching step 4!
+
+# Current Rewardpool (Season 12)
+x4 Ultra Boxes
+x210 Gems
+x2 Epic Skin Wheel Spins
