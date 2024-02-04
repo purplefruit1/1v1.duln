@@ -23,5 +23,7 @@ Must be level 30+ on the pass, but do not reach level 40. Level 39 is as far as 
 
 # Current Rewardpool (Season 12)
 x4 Ultra Boxes
+
 x210 Gems
+
 x2 Epic Skin Wheel Spins
