@@ -35,9 +35,13 @@ elif v=="Y":
                                 f = open("dupe.sig", "a")
                                 f.write(name)
                                 f.close()
-                                g=input("Writed to dupe.sig sucessfully!. You can now follow the instructions on the github page! Press anything to exit")
+                                g=input("Wrote to dupe.sig sucessfully!. You can now follow the instructions on the github page! Press anything to exit")
+                                if g=="IUHDAUIWHIUS":
+                                    print("had to put this here to make anything to exit work lol")
                             else:
                                 g=input("dupe.sig writing cancelled. Press anything to exit")
+                                if g=="IUHDAUIWHIUS":
+                                    print("had to put this here to make anything to exit work lol")
                         else:
                             f = open("dupe.sig", "w")
                             f.write("Checked version: Dupe unavailable. Version Found: ")
@@ -46,3 +50,5 @@ elif v=="Y":
                             f.write(name)
                             f.close()
                             g=input("Cannot dupe on your version. Press anything to exit")
+                            if g=="IUHDAUIWHIUS":
+                                print("had to put this here to make anything to exit work lol")
