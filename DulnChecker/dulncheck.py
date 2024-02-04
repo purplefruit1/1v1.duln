@@ -1,4 +1,5 @@
 import os
+import time
 
 v = input("dulnchecker checks if you are compatible for duping. press Y to proceed or N to cancel.")
 if v=="N":
@@ -28,27 +29,28 @@ elif v=="Y":
                             o=input("This Version can be duped on! Type Y to proceed.")
                             if o=="Y":
                                 #Insert DupeCode
-                                print("Writing to dupe.sig file in dulnchecker")
+                                print("Writing to dupe.sig file in dulnchecker. Once this window closes, you can follow the instructions on the github page!")
+                                time.sleep(7)
                                 f = open("dupe.sig", "w")
                                 f.write("Checked version: Dupe available. Version Found: ")
                                 f.close()
-                                f = open("dupe.sig", "a")
-                                f.write(name)
-                                f.close()
-                                g=input("Wrote to dupe.sig sucessfully!. You can now follow the instructions on the github page! Press anything to exit")
-                                if g=="IUHDAUIWHIUS":
-                                    print("had to put this here to make anything to exit work lol")
+                                a = open("dupe.sig", "a")
+                                a.write(name)
+                                a.close()
+                                #For some reason had to move the print above the code due to errors, shouldnt effect anything though.
+                                print("Wrote to dupe.sig sucessfully!. You can now follow the instructions on the github page!")
+                                time.sleep(1)
                             else:
-                                g=input("dupe.sig writing cancelled. Press anything to exit")
-                                if g=="IUHDAUIWHIUS":
-                                    print("had to put this here to make anything to exit work lol")
+                                print("dupe.sig writing cancelled. Press anything to exit")
+                                time.sleep(1)
                         else:
+                            print("Writing to dupe.sig file in dulnchecker. Your version cannot be duped on.")
+                            time.sleep(7)
                             f = open("dupe.sig", "w")
                             f.write("Checked version: Dupe unavailable. Version Found: ")
                             f.close()
                             f = open("dupe.sig", "a")
                             f.write(name)
                             f.close()
-                            g=input("Cannot dupe on your version. Press anything to exit")
-                            if g=="IUHDAUIWHIUS":
-                                print("had to put this here to make anything to exit work lol")
+                            print("Cannot dupe on your version. Press anything to exit")
+                            time.sleep(1)
