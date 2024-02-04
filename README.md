@@ -1,7 +1,7 @@
 # 1v1.duln
 A easy to follow 1v1.LOL reward duper, which relies on the current seasons battlepass.  Comes with the dulncheck py script to automatically check if you can dupe. Install it from the releases tab.
 
-1v1.duln (Duping Vulnerability) relies on utilising an exploit between cross platform progression data. The exploit is completely safe with 0 risk of getting banned for it, and in the current season allows for 210 gems per minute if done fast enough.
+1v1.duln (Duping Vulnerability) relies on utilising an exploit between cross platform progression data. The exploit is completely safe with 0 risk of getting banned for it, and in the current season allows for ~33k gems per hour if done fast enough. (560 every minute!)
 
 # Requirements
 A dupeable version of the game (find out with dulncheck, installable from the releases tab!)
