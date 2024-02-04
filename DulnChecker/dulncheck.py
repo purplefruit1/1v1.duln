@@ -35,7 +35,7 @@ elif v=="Y":
                                 f = open("dupe.sig", "a")
                                 f.write(name)
                                 f.close()
-                                g=input("Writed to dupe.sig sucessfully!. Press anything to exit")
+                                g=input("Writed to dupe.sig sucessfully!. You can now follow the instructions on the github page! Press anything to exit")
                             else:
                                 g=input("dupe.sig writing cancelled. Press anything to exit")
                         else:
