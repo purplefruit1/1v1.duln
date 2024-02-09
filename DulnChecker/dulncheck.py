@@ -23,7 +23,7 @@ elif v=="Y":
                     print("Writing to unity addressables")
                     CM = os.path.join(ILOL, "com.unity.addressables")
                     #CheckVer
-                    name="catalog_2024.01.30.11.45.06.json"
+                    name="catalog_2024.02.08.14.36.16.json"
                     for root, dirs, files in os.walk(CM):
                         if name in files:
                             o=input("This Version can be duped on! Type Y to proceed.")
