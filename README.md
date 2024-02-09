@@ -31,9 +31,8 @@ x210 Gems
 x2 Epic Skin Wheel Spins
 
 # Supported Versions
-
+<pre>
 Latest: 
-
 
 2024.02.08.14.36.16 (4.62)
 
@@ -42,7 +41,8 @@ Catalog Hash: catalog_2024.02.08.14.36.16.hash
 Catalog Json: catalog_2024.02.08.14.36.16.json
 
 
-Older Versions: (Must use version spoofers to access, normally disabled a while after the latest release comes out)<br />
+Older Versions: (Must use version spoofers to access, normally disabled a while after the latest release comes out)
+  
 
 2024.01.30.11.45.06 (4.611)
 
@@ -55,3 +55,4 @@ Catalog Json: catalog_2024.01.30.11.45.06.json
 Catalog Hash: catalog_2024.01.15.13.53.34.hash
 
 Catalog Json: catalog_2024.01.15.13.53.34.json
+</pre>
