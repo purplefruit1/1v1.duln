@@ -4,7 +4,7 @@ A easy to follow 1v1.LOL reward duper, which relies on the current seasons battl
 1v1.duln (Duping Vulnerability) relies on utilising an exploit between cross platform progression data. The exploit is completely safe with 0 risk of getting banned for it, and in the current season allows for ~33k gems per hour if done fast enough. (560 every minute!)
 
 # Requirements
-A dupeable version of the game (find out with dulncheck, installable from the releases tab!)
+A dupeable version of the game (find out with dulncheck, installable from the releases tab! If you are stuck, check the dupe.sig file and see if your version if on the supported list at the end of the readme!)
 
 A PC running Windows, Mac or Linux with the Steam version of 1v1.LOL and an IPhone or IPad running any version (cfw, altstore, etc do NOT effect this method, so it does not matter if it is installed or not) that has the latest version of 1v1.LOL installed.
 
@@ -29,3 +29,21 @@ x4 Ultra Boxes
 x210 Gems
 
 x2 Epic Skin Wheel Spins
+
+# Supported Versions
+
+Latest: 
+
+2024.02.08.14.36.16 (4.62)
+Catalog Hash: catalog_2024.02.08.14.36.16.hash
+Catalog Json: catalog_2024.02.08.14.36.16.json
+
+Older Versions: (Must use version spoofers to access, normally disabled a while after the latest release comes out)
+
+2024.01.30.11.45.06 (4.611)
+Catalog Hash: catalog_2024.01.30.11.45.06.hash
+Catalog Json: catalog_2024.01.30.11.45.06.json
+
+2024.01.15.13.53.34 (4.61)
+Catalog Hash: catalog_2024.01.15.13.53.34.hash
+Catalog Json: catalog_2024.01.15.13.53.34.json
