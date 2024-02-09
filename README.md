@@ -31,6 +31,8 @@ x210 Gems
 x2 Epic Skin Wheel Spins
 
 # Supported Versions
+Supported versions can be found at: https://dulnchecker.wordpress.com/about
+They are also listed here:
 <pre>
 Latest: 
 
