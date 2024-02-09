@@ -3,6 +3,8 @@ A easy to follow 1v1.LOL reward duper, which relies on the current seasons battl
 
 1v1.duln (Duping Vulnerability) relies on utilising an exploit between cross platform progression data. The exploit is completely safe with 0 risk of getting banned for it, and in the current season allows for ~33k gems per hour if done fast enough. (560 every minute!)
 
+# IMPORTANT: The Patch for Season 13 (expected as 4.70) releases on the 14th November. The 1v1.duln method and dulncheck may become patched with this update so if you really need gems, make sure to do it PRIOR to the update.
+
 # Requirements
 A dupeable version of the game (find out with dulncheck, installable from the releases tab! If you are stuck, check the dupe.sig file and see if your version if on the supported list at the end of the readme!)
 
@@ -13,6 +15,7 @@ You MUST have LOL+ (monthly or weekly) on an iOS or iPadOS. There is no way arou
 Must be level 30+ on the pass, but do not reach level 40. Level 39 is as far as this method was tested.
 
 # How it works
+In versions 4.61+ (catalog_2024.01.15.13.53.34.hash), it is possible to exploit the cross progession data saving on 1v1.lol. This is due to apple devies recieving an extra 10 tiers than any other platform, allowing for "duping" of rewards.
 1v1.duln works by exploiting the cross platform progression data in 1v1.LOL. Once you reach level 30, all devices not running apple firmware will have reached the max level. However, on IOS versions of the game, the max level becomes 40 (along with gem rewards being rapidly increased). Once you are level 30, you must continue progression to level 39 (or whatever level you want to receive rewards from) on an IOS device by either progressing manually or purchasing tiers for gems.
 
 # How to activate the exploit
