@@ -44,6 +44,7 @@ Catalog Json: catalog_2024.02.08.14.36.16.json
   
 
 Older Versions: (Must use version spoofers to access, normally disabled a while after the latest release comes out)
+Please Note: You will have to use older releases of dulncheck for older versions as they are not actively supported within latest releases.
 
   
 
