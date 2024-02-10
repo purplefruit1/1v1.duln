@@ -3,7 +3,8 @@ A easy to follow 1v1.LOL reward duper, which relies on the current seasons battl
 
 1v1.duln (Duping Vulnerability) relies on utilising an exploit between cross platform progression data. The exploit is completely safe with 0 risk of getting banned for it, and in the current season allows for ~33k gems per hour if done fast enough. (560 every minute!)
 
-# IMPORTANT: The Patch for Season 13 (expected as 4.70) releases on the 14th November. The 1v1.duln method and dulncheck may become patched with this update so if you really need gems, make sure to do it PRIOR to the update.
+# IMPORTANT: 
+The Patch for Season 13 (expected as 4.70) releases on the 14th November. The 1v1.duln method and dulncheck may become patched with this update so if you really need gems, make sure to do it PRIOR to the update.
 
 # Requirements
 A dupeable version of the game (find out with dulncheck, installable from the releases tab! If you are stuck, check the dupe.sig file and see if your version if on the supported list at the end of the readme!)
@@ -39,10 +40,11 @@ x2 Epic Skin Wheel Spins
 Supported versions can be found at: https://dulnchecker.wordpress.com/about
 They are also listed here:
 <pre>
+The LP+ tag means the version requires LOL+ weekly or monthly. SP means it can be used on the Stock Pass (300 gems)
 Latest: 
 
   
-2024.02.08.14.36.16 (4.62)
+2024.02.08.14.36.16 (4.62) (LP+)
 
 Catalog Hash: catalog_2024.02.08.14.36.16.hash
 
@@ -55,14 +57,14 @@ Please Note: You will have to use older releases of dulncheck for older versions
 
   
 
-2024.01.30.11.45.06 (4.611)
+2024.01.30.11.45.06 (4.611) (LP+)
 
 Catalog Hash: catalog_2024.01.30.11.45.06.hash
 
 Catalog Json: catalog_2024.01.30.11.45.06.json
   
 
-2024.01.15.13.53.34 (4.61)
+2024.01.15.13.53.34 (4.61) (SP)
 
 Catalog Hash: catalog_2024.01.15.13.53.34.hash
 
