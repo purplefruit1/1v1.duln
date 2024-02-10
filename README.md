@@ -15,7 +15,9 @@ You MUST have LOL+ (monthly or weekly) on an iOS or iPadOS. There is no way arou
 Must be level 30+ on the pass, but do not reach level 40. Level 39 is as far as this method was tested.
 
 # How it works
-In versions 4.61+ (catalog_2024.01.15.13.53.34.hash), it is possible to exploit the cross progession data saving on 1v1.lol. This is due to apple devies recieving an extra 10 tiers than any other platform, allowing for "duping" of rewards.
+In versions 4.61+ (catalog_2024.01.15.13.53.34.hash), it is possible to exploit the cross progession data saving on 1v1.lol. 
+This is due to apple devies recieving an extra 10 tiers than any other platform, allowing for "duping" of rewards.
+
 1v1.duln works by exploiting the cross platform progression data in 1v1.LOL. Once you reach level 30, all devices not running apple firmware will have reached the max level. However, on IOS versions of the game, the max level becomes 40 (along with gem rewards being rapidly increased). Once you are level 30, you must continue progression to level 39 (or whatever level you want to receive rewards from) on an IOS device by either progressing manually or purchasing tiers for gems.
 
 # How to activate the exploit
