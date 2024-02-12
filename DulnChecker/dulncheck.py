@@ -23,7 +23,7 @@ elif v=="Y":
                     print("Writing to unity addressables")
                     CM = os.path.join(ILOL, "com.unity.addressables")
                     #CheckVer
-                    name="catalog_2024.02.08.14.36.16.json"
+                    name="catalog_2024.02.11.17.34.57.hash" #Check via hash for 4.621 as some copies of the game dont register the json correclty?
                     for root, dirs, files in os.walk(CM):
                         if name in files:
                             o=input("This Version can be duped on! Type Y to proceed.")
