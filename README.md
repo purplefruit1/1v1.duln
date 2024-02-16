@@ -4,7 +4,7 @@ A easy to follow 1v1.LOL reward duper, which relies on the current seasons battl
 1v1.duln (Duping Vulnerability) relies on utilising an exploit between cross platform progression data. The exploit is completely safe with 0 risk of getting banned for it, and in the current season allows for ~33k gems per hour if done fast enough. (560 every minute!)
 
 # IMPORTANT: 
-The Patch for Season 13 (expected as 4.70) releases on the 14th November. The 1v1.duln method and dulncheck may become patched with this update so if you really need gems, make sure to do it PRIOR to the update.
+As expected, duln is now patched with the release of Season 13. This page and dulncheck will be kept here for archiving purposes. I will update the page if another way to activate duln returns but for now, its impossible.
 
 # Requirements
 A dupeable version of the game (find out with dulncheck, installable from the releases tab! If you are stuck, check the dupe.sig file and see if your version if on the supported list at the end of the readme!)
