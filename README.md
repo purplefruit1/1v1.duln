@@ -5,6 +5,7 @@ A easy to follow 1v1.LOL reward duper, which relies on the current seasons battl
 
 # IMPORTANT: 
 As expected, duln is now patched with the release of Season 13. This page and dulncheck will be kept here for archiving purposes. I will update the page if another way to activate duln returns but for now, its impossible.
+^ Nevermind! As of the champions update (25/03/24) it is now possible to use duln again. A new app checker update will be available soon with a instruction guide being published soon as well. You WILL need an unopened older version of the game though, preferrably a recent copy.
 
 # Requirements
 A dupeable version of the game (find out with dulncheck, installable from the releases tab! If you are stuck, check the dupe.sig file and see if your version if on the supported list at the end of the readme!)
